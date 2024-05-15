@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">A software engineer and a student at Cleveland State</h3>
+<h3 align="center">A Software Engineer and a Student at Cleveland State University</h3>
 
 - 🔭 I’m currently working on [AiBanker](https://dmytro-yermolenko.com/projects/)
 
