@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">A Software Engineer and a Student at Cleveland State University</h3>
 
-- 🔭 I’m currently working on [AiBanker](https://dmytro-yermolenko.com/projects/)
-
 - 👯 I’m open to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://dmytro-yermolenko.com/](https://dmytro-yermolenko.com/)
+- 👨‍💻 All of my projects are available on ... there
 
 - 📫 How to reach me **contact@dmytro-yermolenko.com**
 
