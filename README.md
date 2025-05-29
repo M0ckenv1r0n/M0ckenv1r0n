@@ -3,7 +3,7 @@
 
 - 👯 I’m open to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available on ... there
+- 👨‍💻 All of my projects are available on ... GITHUB
 
 - 📫 How to reach me **contact@dmytro-yermolenko.com**
 
